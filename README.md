@@ -1,50 +1,63 @@
-🍽️ MessMate — Smart Hostel Mess Management
+# 🍽️ MessMate
 
-MessMate is a simple and modern hostel mess management web application built using only HTML, CSS, and JavaScript. It helps students quickly check the daily and weekly mess menu and share feedback about their meals.
+**MessMate** is a modern and responsive hostel mess management website designed to help students easily check their daily and weekly food menu and share feedback about their meals.
 
-✨ Features
-📅 Daily mess menu
-🍛 Week 1 & 3 / Week 2 & 4 menu cycles
-📋 Complete weekly menu
-⭐ Meal rating and feedback
-💾 Feedback stored using LocalStorage
-💬 Simple command system
-🌙 Dark mode
-📱 Responsive design
-🛠️ Technologies Used
-HTML5
-CSS3
-JavaScript
-LocalStorage
-Google Fonts
-📂 Project Structure
+## ✨ Features
+
+- 📅 View today's mess menu
+- 🍛 View complete weekly menu
+- 🔄 Separate Week 1 & 3 and Week 2 & 4 menus
+- ⭐ Rate individual meals
+- 💬 Submit and view meal feedback
+- 💾 Save feedback using LocalStorage
+- 💻 Simple command system
+- 🌙 Dark mode
+- 📱 Responsive design for mobile and desktop
+
+## 🛠️ Technologies Used
+
+- HTML5
+- CSS3
+- JavaScript
+- LocalStorage
+- Google Fonts
+
+## 📂 Project Structure
+
+```text
 MessMate/
 │
 ├── index.html
 ├── index.css
 └── index.js
+
 🚀 How to Run
-Download or clone the repository.
+Clone this repository:
+git clone <your-repository-url>
 Open the project folder in VS Code.
 Open index.html in your browser.
 
-No backend or database is required.
+No backend, database, or installation is required.
 
-💡 Commands
+💬 Available Commands
 
-MessMate includes simple commands such as:
+MessMate provides a simple command feature:
 
 /menu
 /today
 /rating
 /best
 /feedback
-🎯 Purpose
+🎯 Project Purpose
 
-The project was created as a lightweight solution for hostel students to view mess schedules, check meals, and provide feedback through a clean and user-friendly interface.
+The main goal of MessMate is to provide hostel students with a simple platform to:
 
+Check what food is being served.
+View the complete mess schedule.
+Rate their meals.
+Share feedback with the mess management.
 👨‍💻 Author
 
 Vignesh R.S
 
-MessMate — Know your meal. Rate your experience. 🍽️
+Built with ❤️ using HTML, CSS and JavaScript.
