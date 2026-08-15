@@ -124,9 +124,7 @@ let feedbacks =
 let selectedRating = 0;
 
 
-/* =========================
-   SELECTOR
-========================= */
+
 
 const $ = selector =>
   document.querySelector(selector);
