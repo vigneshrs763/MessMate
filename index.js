@@ -146,9 +146,7 @@ const today =
   dayNames[new Date().getDay()];
 
 
-/* =========================
-   DATE
-========================= */
+
 
 $("#date").textContent =
   new Date().toLocaleDateString(
@@ -161,9 +159,7 @@ $("#date").textContent =
   );
 
 
-/* =========================
-   RENDER TODAY
-========================= */
+
 
 function renderToday() {
 
