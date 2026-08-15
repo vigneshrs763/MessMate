@@ -723,9 +723,6 @@ document
   });
 
 
-/* =========================
-   DARK MODE
-========================= */
 
 $("#themeBtn").onclick = () => {
 
@@ -747,9 +744,7 @@ $("#themeBtn").onclick = () => {
 };
 
 
-/* =========================
-   TOAST
-========================= */
+
 
 function toast(message) {
 
@@ -777,9 +772,7 @@ function toast(message) {
 }
 
 
-/* =========================
-   HTML SECURITY
-========================= */
+
 
 function escapeHTML(value) {
 
