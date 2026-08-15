@@ -536,9 +536,6 @@ $("#submitFeedback").onclick = () => {
 };
 
 
-/* =========================
-   COMMAND SYSTEM
-========================= */
 
 function runCommand(command) {
 
@@ -670,9 +667,7 @@ document
   });
 
 
-/* =========================
-   NAVIGATION
-========================= */
+
 
 document
   .querySelectorAll(".nav")
