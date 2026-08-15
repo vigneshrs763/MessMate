@@ -112,9 +112,7 @@ const menus = {
 };
 
 
-/* =========================
-   VARIABLES
-========================= */
+
 
 let currentWeek = "week13";
 
