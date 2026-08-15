@@ -364,7 +364,7 @@ document
   });
 
 
-/* Menu page week buttons */
+
 
 document
   .querySelectorAll(".menu-tab")
@@ -381,9 +381,7 @@ document
   });
 
 
-/* =========================
-   FEEDBACK
-========================= */
+
 
 function renderFeedback() {
 
@@ -431,9 +429,7 @@ function renderFeedback() {
 renderFeedback();
 
 
-/* =========================
-   RATING
-========================= */
+
 
 document
   .querySelectorAll("[data-rating]")
@@ -465,9 +461,7 @@ document
   });
 
 
-/* =========================
-   SUBMIT FEEDBACK
-========================= */
+
 
 $("#submitFeedback").onclick = () => {
 
