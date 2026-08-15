@@ -1,5 +1,4 @@
 
-
 const menus = {
 
   week13: {
@@ -231,9 +230,7 @@ function renderToday() {
 renderToday();
 
 
-/* =========================
-   WEEKLY MENU
-========================= */
+
 
 function renderWeeklyMenu() {
 
@@ -326,9 +323,6 @@ function renderWeeklyMenu() {
 renderWeeklyMenu();
 
 
-/* =========================
-   WEEK SWITCHING
-========================= */
 
 function changeWeek(week) {
 
