@@ -130,9 +130,7 @@ const $ = selector =>
   document.querySelector(selector);
 
 
-/* =========================
-   CURRENT DAY
-========================= */
+
 
 const dayNames = [
   "Sunday",
